@@ -3,7 +3,7 @@
 OCW Source Viewer adalah file ke-3 yg dibuat dan dishare untuk public setelah *ocw_genchat* dan *simple_ocw_guestbook*
 **
 File Name: osv.php
-file inc : altecom.php
+file inc : osv_func.php
 #**
 Author: Altec
 **
